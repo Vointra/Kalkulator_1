@@ -1,2 +1,3 @@
 # Kalkulator_1
-Ini cuman ngetes sama belajar python aja
+Ini cuman iseng sama belajar python aja
+yang mau ambil silahkan
